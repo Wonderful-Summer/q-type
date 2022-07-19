@@ -1,4 +1,4 @@
-package type
+package qtype
 
 import (
 	"html/template"
