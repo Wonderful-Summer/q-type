@@ -1,4 +1,4 @@
-package qt
+package type
 
 import (
 	"html/template"
